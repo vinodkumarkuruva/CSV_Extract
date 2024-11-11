@@ -22,7 +22,7 @@ Requirements
 Installation
 
 1.Clone this repository :  git clone https://github.com/vinodkumarkuruva/CSV_Extraction.git 
-                         cd secret_santa_project
+                           cd secret_santa_project
 
 2.Install the required dependencies :  pip install -r requirements.txt
 
